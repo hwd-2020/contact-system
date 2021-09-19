@@ -1,0 +1,1 @@
+import{r as o,o as e,b as n,e as r,w as t,f as a}from"./vendor.f2c1d879.js";const s={},d={id:"not-found-page"},f=a(" 404 "),u=a("返回首页");s.render=function(a,s){const c=o("el-button");return e(),n("div",d,[f,r(c,{onClick:s[0]||(s[0]=o=>a.$router.replace("/logon"))},{default:t((()=>[u])),_:1})])};export{s as default};
